@@ -6,3 +6,5 @@ git config --global user.email "ganindudananja@gmail.com"
 git init
 git add .
 git commit -m "Comment"
+
+gotta figure out the uploading thingy
