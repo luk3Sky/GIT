@@ -1,1 +1,8 @@
 vcs - version controling sys
+
+git config --global user.name "luk3Sky"
+git config --global user.email "ganindudananja@gmail.com"
+
+git init
+git add .
+git commit -m "Comment"
