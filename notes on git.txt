@@ -11,4 +11,6 @@ git rm <file> to delete
 git mv <file1> <file2> to rename
 
 
+git checkout <commit message id chars> -- <filename or names>
+
 
