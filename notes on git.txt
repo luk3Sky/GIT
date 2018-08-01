@@ -7,4 +7,8 @@ git init
 git add .
 git commit -m "Comment"
 
-gotta figure out the uploading thingy
+git rm <file> to delete
+git mv <file1> <file2> to rename
+
+
+
