@@ -12,5 +12,9 @@ git mv <file1> <file2> to rename
 
 
 git checkout <commit message id chars> -- <filename or names>
+// rollback to a specific commit
+
+
+
 
 
